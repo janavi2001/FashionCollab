@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Collab Studio",
+  "description": "A collaborative web application for fashion designers to create and iterate on outfit designs in real-time. Users can join a design room, upload a model's photo, and chat to dynamically generate new outfits on the photo using AI. All generated designs are checkpointed for easy review.",
+  "requestFramePermissions": []
+}
